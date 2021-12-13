@@ -12,3 +12,8 @@ java -jar target/tollCalculator.jar toll.fee.cal.CostOfTrip "Salem Road" "QEW"
 ```
 mvn test
 ```
+# Assumption
+```
+The location ids consistent with the interchage's next and previous setting, that is the next order in the locations is the larger "toId" and (if any) the previous order in the locations is the smaller "toId".
+
+```
