@@ -1,0 +1,32 @@
+{
+  "locations": {
+    "1": {
+      "name": "QEW",      
+      "lat": 43.336962,
+      "lng": -79.830394,
+      "routes": [
+        {
+          "toId": 2,
+          "distance": 6.062
+        }
+      ]
+    },
+    "46": {
+      "name": "Salem Road",      
+      "lat": 43.942808,
+      "lng": -79.050339,
+      "routes": [
+        {
+          "toId": 47,
+          "distance": 0,
+          "startDate": "2013"
+        },
+        {
+          "toId": 45,
+          "distance": 0,
+          "startDate": "2013"
+        }
+      ]
+    }
+  }
+}
